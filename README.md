@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-Arabic Text Classification
+Natural Language Processing - Arabic Text Classification Project
 
 The project aims to develop an Arabic text classification system to categorize news articles into three main topics: entrepreneurship, science/technology, and others. This involves building a robust NLP model capable of accurately classifying the content.
 
